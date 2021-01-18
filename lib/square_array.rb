@@ -25,13 +25,15 @@ def squared_array(array)
 #define index counter for input array
   counter = 0
   while array {
+    # for each value square that value and place into local array for aoutpu
     returnarray[counter] = array[counter]**2
     counter += 1
   }
   return returnarray
 
-# for each value square that value and place into local array for aoutpu
+
 
 # after loop return local array
+
 
 
