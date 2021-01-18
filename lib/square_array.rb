@@ -31,5 +31,6 @@ def squared_array(array)
   }
   # after loop return local array
   return returnarray
+end
 
 puts squared_array([5,25])
