@@ -19,13 +19,16 @@ square_array([1,2,3])
 def squared_array(array)
 
 #Define local array for output
-returnarray = []
+  returnarray = []
 
 #loop over each value of the array
-while array {
-  
-}
-  
+#define index counter for input array
+  counter = 0
+  while array {
+    returnarray[counter] = array[counter]**2
+    counter += 1
+  }
+  return returnarray
 
 # for each value square that value and place into local array for aoutpu
 
