@@ -22,7 +22,10 @@ def squared_array(array)
 returnarray = []
 
 #loop over each value of the array
-while
+while array {
+  
+}
+  
 
 # for each value square that value and place into local array for aoutpu
 
