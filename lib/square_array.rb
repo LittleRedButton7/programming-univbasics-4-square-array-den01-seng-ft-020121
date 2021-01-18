@@ -19,8 +19,10 @@ square_array([1,2,3])
 def squared_array(array)
 
 #Define local array for output
+returnarray = []
 
 #loop over each value of the array
+while
 
 # for each value square that value and place into local array for aoutpu
 
