@@ -29,11 +29,7 @@ def squared_array(array)
     returnarray[counter] = array[counter]**2
     counter += 1
   }
+  # after loop return local array
   return returnarray
 
-
-
-# after loop return local array
-
-
-
+puts squared_array([5,25])
